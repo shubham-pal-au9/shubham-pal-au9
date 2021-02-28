@@ -14,6 +14,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=shubham-pal-au9&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
