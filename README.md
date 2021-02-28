@@ -21,4 +21,5 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: shubham-pal-au9.github.io/Portfolio-website.github.io/
-[linkedin]: linkedin.com/in/shubham-pal-a5b047169
+[linkedin]: https://www.linkedin.com/in/shubham-pal-a5b047169
+
