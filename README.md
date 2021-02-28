@@ -2,9 +2,9 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on - ReactJs
+- 🔭 I’m currently working on - ReactJs and Redux
 - 🌱 I’m currently learning - NodeJs
-- 🥅 2021 Goal - Explore open source
+- 🥅 2021 Goal - Explore MERN stack development
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
@@ -22,6 +22,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[website]: shubham-pal-au9.github.io/Portfolio-website.github.io/
+[website]: https://shubham-pal-au9.github.io/Portfolio-website.github.io/
 [linkedin]: https://www.linkedin.com/in/shubham-pal-a5b047169
 
